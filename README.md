@@ -35,3 +35,5 @@ The dataset contains information about Netflix Movies and TV Shows, including:
 - Year-wise content release trend
 - Popularity comparison between Movies and TV Shows
 
+📜 License
+This project is open-source and available under the MIT License.
