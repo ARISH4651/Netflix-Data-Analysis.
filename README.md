@@ -10,7 +10,7 @@ The dataset contains information about Netflix Movies and TV Shows, including:
 - Cast
 - Country
 - Date Added
-- Release Year
+- Release Years
 - Rating
 - Duration
 - Genre
